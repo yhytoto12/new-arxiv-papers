@@ -21,7 +21,7 @@ pip install PyGithub
 
 ## Usage
 ### 1. Create a new repository to get notification of new papers
-The notification is save by creating a github issue. see an [example](https://github.com/yhytoto12/daily-arxiv-paper/issues/1)  
+The notification is save by creating a github issue. see an [example](https://github.com/yhytoto12/new-arxiv-papers/issues/1)  
 
 ### 2. Set a configuration
 Refer to [config.py](https://github.com/yhytoto12/daily-arxiv-paper/blob/main/config.py) and set your configuration. 
