@@ -24,7 +24,7 @@ pip install PyGithub
 The notification is save by creating a github issue. see an [example](https://github.com/yhytoto12/new-arxiv-papers/issues/1)  
 
 ### 2. Set a configuration
-Refer to [config.py](https://github.com/yhytoto12/daily-arxiv-paper/blob/main/config.py) and set your configuration. 
+Refer to [config.py](https://github.com/yhytoto12/new-arxiv-papers/blob/main/config.py) and set your configuration. 
 
 You can change `keyword_list` on your preference. The keys of `keyword_list` are categories of arxiv papers (see [this](https://arxiv.org/)). Also, there are **3 keyword options** to filter papers.
 - **str** - check if a keyword is in paper's title or abstract
